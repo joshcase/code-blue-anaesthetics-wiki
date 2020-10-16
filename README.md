@@ -4,7 +4,7 @@
 
 📖 &nbsp;An example project from my book [**"Code Blue: An Introduction to Programming for Doctors and Medical Students"**](https://gumroad.com/products/NMtSD/).
 
-💊&nbsp;In this project, we build an information hub built around the Anaesthetics discipline.
+💊&nbsp;In this project, we build an information hub focused around the Anaesthetics discipline.
 
 🙅‍&nbsp;Please note, while these guidelines are loosely based on Australian standards, if you’re treating actual patients, please get your advice from elsewhere. The content within has been greatly abridged for the purposes of simplicity and teaching programming. **Not intended for clinical use**.
 
