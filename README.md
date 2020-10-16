@@ -1,6 +1,6 @@
 ### 🏥 &nbsp;Code Blue Example Project #2
 
-# 🩺 &nbsp;AnaestheticsWiki
+# 👩🏾‍⚕️ &nbsp;AnaestheticsWiki
 
 📖 &nbsp;An example project from my book [**"Code Blue: An Introduction to Programming for Doctors and Medical Students"**](https://gumroad.com/products/NMtSD/).
 
